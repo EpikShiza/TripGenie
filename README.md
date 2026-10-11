@@ -1,0 +1,2 @@
+# TripGenie
+Intelligent Travel Planner 
